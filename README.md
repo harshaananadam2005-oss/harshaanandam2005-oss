@@ -1,6 +1,45 @@
 # harshaanandam2005-oss
 # 💫 About Me:
-I am a 2nd year computer science student
+# Hi there 👋, I'm Harsha
+
+## 🚀 About Me
+🎓 Second Year Computer Science Student  
+💻 Passionate about Coding & Technology  
+🌱 Currently learning AI/ML, Web Development & Cybersecurity  
+⚡ Interested in building real-world projects and improving problem-solving skills  
+
+---
+
+## 🛠️ Skills
+- C Programming
+- Python
+- HTML & CSS
+- Git & GitHub
+- Problem Solving
+
+---
+
+## 📚 Currently Learning
+- Artificial Intelligence & Machine Learning
+- Data Structures & Algorithms
+- Web Development
+
+---
+
+## 📈 Goals
+- Build impactful projects
+- Contribute to Open Source
+- Improve development skills every day
+
+---
+
+## 🌐 Connect With Me
+- GitHub: your-github-username
+- LinkedIn: your-linkedin-link
+
+---
+
+⭐ “Code. Learn. Build. Repeat.”
 
 
 ## 🌐 Socials:
